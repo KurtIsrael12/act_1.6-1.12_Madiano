@@ -22,7 +22,7 @@ fontLoader.load(
         const material = new THREE.MeshMatcapMaterial({ matcap: matcapTexture })
 
         const textGeometry = new TextGeometry(
-            'Hello Three.js',
+            'Hello Three.js, ralph so kyot',
             {
                 font: font,
                 size: 0.5,
